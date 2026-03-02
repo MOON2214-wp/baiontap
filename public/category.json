@@ -1,0 +1,86 @@
+[
+  {
+    "id": 101,
+    "name": "Xi măng Hà Tiên Đa Dụng",
+    "categoryId": 1,
+    "price": 88000,
+    "unit": "Bao"
+  },
+  {
+    "id": 102,
+    "name": "Xi măng trắng dẻo",
+    "categoryId": 1,
+    "price": 120000,
+    "unit": "Bao"
+  },
+  {
+    "id": 103,
+    "name": "Sắt cuộn phi 6",
+    "categoryId": 2,
+    "price": 15500,
+    "unit": "Kg"
+  },
+  {
+    "id": 104,
+    "name": "Sắt cây vằn phi 10",
+    "categoryId": 2,
+    "price": 95000,
+    "unit": "Cây"
+  },
+  {
+    "id": 105,
+    "name": "Thép hình chữ U Hòa Phát",
+    "categoryId": 3,
+    "price": 320000,
+    "unit": "Cây"
+  },
+  {
+    "id": 106,
+    "name": "Thép hộp mạ kẽm",
+    "categoryId": 3,
+    "price": 210000,
+    "unit": "Cây"
+  },
+  {
+    "id": 107,
+    "name": "Cát vàng xây tô",
+    "categoryId": 4,
+    "price": 450000,
+    "unit": "Khối"
+  },
+  {
+    "id": 108,
+    "name": "Cát đen san lấp",
+    "categoryId": 4,
+    "price": 180000,
+    "unit": "Khối"
+  },
+  {
+    "id": 109,
+    "name": "Đá xanh 1x2",
+    "categoryId": 5,
+    "price": 350000,
+    "unit": "Khối"
+  },
+  {
+    "id": 110,
+    "name": "Đá mi bụi",
+    "categoryId": 5,
+    "price": 220000,
+    "unit": "Khối"
+  },
+  {
+    "id": 111,
+    "name": "Gạch ống Tuynel 4 lỗ",
+    "categoryId": 6,
+    "price": 1200,
+    "unit": "Viên"
+  },
+  {
+    "id": 112,
+    "name": "Gạch thẻ đặc nung",
+    "categoryId": 6,
+    "price": 1500,
+    "unit": "Viên"
+  }
+]
